@@ -66,9 +66,9 @@ echo "/bin/menu" > /bin/h && chmod +x /bin/h > /dev/null 2>&1
 rm versao* > /dev/null 2>&1
 wget https://raw.githubusercontent.com/leitura/SSHPLUS/master/Install/versao > /dev/null 2>&1
 > /dev/null 2>&1
-wget https://www.twitter.com/TheMentalistSay > /dev/null 2>&1
+wget https://www.twitter.com/surfynet > /dev/null 2>&1
 > /dev/null 2>&1
-rm TheMentalistSay > /dev/null 2>&1
+rm Surfynet > /dev/null 2>&1
 cd /bin/ > /dev/null 2>&1
 rm v2raymanager > /dev/null 2>&1
 wget https://raw.githubusercontent.com/leitura/SSHPLUS/master/Modulos/v2raymanager > /dev/null 2>&1
@@ -145,5 +145,5 @@ cd $HOME
 echo -e "        \033[1;33m • \033[1;32mINSTALACAO CONCLUIDA\033[1;33m • \033[0m"
 echo ""
 echo -e "\033[1;31m \033[1;33mCOMANDO PRINCIPAL: \033[1;32mmenu\033[0m"
-echo -e "\033[1;33m MAIS INFORMACOES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@TheMentalistSay\033[0m"
+echo -e "\033[1;33m MAIS INFORMACOES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@Surfynet\033[0m"
 rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
