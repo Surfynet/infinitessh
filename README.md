@@ -1,4 +1,4 @@
-# SSHPLUS
+# SSHPLUS - Surfynet
 
 apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/leitura/SSHPLUS/master/Plus && chmod 777 Plus && ./Plus
 
